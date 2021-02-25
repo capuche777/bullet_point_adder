@@ -10,7 +10,4 @@
     * List of animals
     * List of aquarium
     * List of biologists by author abbreviation
-    * List of cultivars* List of animals
-    * List of aquarium
-    * List of biologists by author abbreviation
     * List of cultivars
